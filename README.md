@@ -1,11 +1,7 @@
 ## sebottt
 
-Estudiante y desarrollador. Construyo aplicaciones web y después las administro yo mismo, que es como
-terminé dedicando tanto tiempo a servidores, certificados y autenticación como al propio código.
+Estudiante de Ingenieria en Sistemas , con aspiracion a ciberseguridad y desarrollo de aplicaciones web. 
 
-Casi todo lo que sé salió de mantener una aplicación en producción. Escribirla me enseñó PHP y
-JavaScript. Mantenerla en pie me enseñó Apache, MySQL, renovación de certificados, manejo de claves
-SSH, y por qué un archivo de respaldo olvidado en la raíz web es un problema.
 
 ### Trabajo destacado
 
