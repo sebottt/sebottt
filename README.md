@@ -47,8 +47,6 @@ Bot de retransmisión en Python, corriendo bajo systemd en la misma infraestruct
 
 [![](https://skillicons.dev/icons?i=git)](#)
 
-Además, sin icono propio: Apache, Composer, SQL, systemd, Certbot y fail2ban.
-
 ### Ahora mismo
 
 Orientándome a seguridad por el lado práctico: endurecimiento de hosts, análisis de registros y
